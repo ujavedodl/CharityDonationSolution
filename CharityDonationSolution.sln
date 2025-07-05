@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33424.401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharityDonationManager", "src\CharityDonationManager\CharityDonationManager.csproj", "{0863217A-A165-4165-BFC3-BC30E0031751}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharityDonationManager.API", "src\CharityDonationManager.API\CharityDonationManager.API.csproj", "{70C3F360-57B8-4A3A-9A80-91DB5D2890E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharityDonationManager.Tests", "tests\CharityDonationManager.Tests\CharityDonationManager.Tests.csproj", "{4CD27108-DE6B-41D9-85B1-5B7788C13BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0863217A-A165-4165-BFC3-BC30E0031751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0863217A-A165-4165-BFC3-BC30E0031751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0863217A-A165-4165-BFC3-BC30E0031751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0863217A-A165-4165-BFC3-BC30E0031751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C3F360-57B8-4A3A-9A80-91DB5D2890E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C3F360-57B8-4A3A-9A80-91DB5D2890E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C3F360-57B8-4A3A-9A80-91DB5D2890E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C3F360-57B8-4A3A-9A80-91DB5D2890E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD27108-DE6B-41D9-85B1-5B7788C13BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD27108-DE6B-41D9-85B1-5B7788C13BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD27108-DE6B-41D9-85B1-5B7788C13BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD27108-DE6B-41D9-85B1-5B7788C13BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
