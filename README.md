@@ -1,4 +1,5 @@
 # CharityDonationSolution
+![CI](https://github.com/YOUR_USERNAME/CharityDonationSolution/actions/workflows/ci.yml/badge.svg)
 
 This solution contains:
 - **CharityDonationManager**: .NET Standard library for managing donations and generating exports.
